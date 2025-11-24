@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SchoolManagementAppDAL.Abstract
+namespace SchoolManagementAppDAL.Model
 {
-    public interface IViewStudentDetails
+    public class StudentInfo
     {
     }
 }
